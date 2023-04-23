@@ -1,0 +1,45 @@
+1.SHARE:
+     A company’s capital is divided into small equal units of a finite number. Each unit is known as a share. In simple terms, a share is a percentage of ownership in a company or a financial asset.
+
+
+2.SHAREHOLDERS
+ Investors who hold shares of any company are known as shareholders
+
+3.PORTFOLIO:
+ An investment portfolio or a financial portfolio is a basket of financial assets that may include stocks, bonds, money market instruments, cash and cash equivalents, commodities, etc.
+
+4.IPO:
+  The process by which a private company can go public by sale of its stocks to general public. It could be a new, young company or an old company which decides to be listed on an exchange and hence goes public.
+
+5:BROKER:
+1) In stock market jargon, a broker is an individual or a firm that executes ‘buy’ and ‘sell’ orders for an investor for a fee or commission.
+                                                           (OR)
+2)A broker is an independent person or a company that organises and executes financial transactions on behalf of another party.
+
+6:DIVIDEND:
+Dividend refers to a reward, cash or otherwise, that a company gives to its shareholders.
+
+7:BULL MARKET:
+A bull market is a period of time in financial markets when the price of an asset or security rises continuously.
+
+8:BEAR MARKET:
+A bear market is when a market experiences prolonged price declines
+
+9:STOCK EXCHANGE:
+A stock exchange is a centralised location where the shares of publicly traded companies are bought and sold.
+
+10:INDEX:
+An index is a method to track the performance of a group of assets in a standardized way. Indexes typically measure the performance of a basket of securities intended to replicate a certain area of the market.
+
+11.NET ASSEST VALUE:
+The performance of a particular scheme of a Mutual Fund is denoted by Net Asset Value (NAV). In simple words, NAV is the market value of the securities held by the scheme. Mutual Funds invest the money collected from investors in securities markets.
+
+12.MATURITY:
+Maturity is the weighted average of all the current maturities of the debt securities held in the fund. The weights are the percentage holding of each security in the portfolio.
+
+13.NSE AND BSE:
+NSE stands for National Stock Exchange and BSE stands for Bombay Stock Exchange. NSE is the biggest stock exchanges in India, while BSE is Asia's oldest stock exchange. The volumes traded in NSE are way more than that traded in BSE.
+
+14.BONDS:
+Bonds are a type of investment designed to aid governments and corporations to raise money. In a mutual fund, money collected from various investors is taken together to buy a large variety of securities.
+
